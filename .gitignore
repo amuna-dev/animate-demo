@@ -1,0 +1,20 @@
+# зависимости (Node/Playwright использовались только для проверки)
+node_modules/
+
+# разбор референса и проверочные скриншоты
+reference.mp4
+ref-final.png
+ref-frames/
+shots/
+screenshots/
+check/
+tests/
+*.diff.png
+*-check.png
+
+# системное
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
