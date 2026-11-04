@@ -1,4 +1,6 @@
 
+genuine-pudding-6d2360.netlify.app
+
 ## Технологии
 
 - **HTML + CSS + JavaScript** без фреймворков и библиотек.
